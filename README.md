@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is a little bit about me:
+Glad you're here.
 
-- 🔭 I write at https://deepakness.com
-
+- ✍️ I write at https://deepakness.com
+- 📙 Also, learning to code
