@@ -4,7 +4,7 @@ I'm Deepak (DeepakNess online) — an internet generalist working across AI, tec
 
 Currently building cool stuff, experimenting, and documenting my journey at [deepakness.com](https://deepakness.com).
 
-You can also find me on [X (Twitter)](https://x.com/DeepakNesss), [LinkedIn](https://linkedin.com/in/deepakness), and [Threads](https://www.threads.com/@deepakness).
+You can find me on [X (Twitter)](https://x.com/DeepakNesss), [LinkedIn](https://linkedin.com/in/deepakness), and [Threads](https://www.threads.com/@deepakness).
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
