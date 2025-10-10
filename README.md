@@ -1,8 +1,8 @@
 # Hey 👋
 
-My name is Deepak, and I go by the name DeepakNess online.
+I'm Deepak (DeepakNess online) — an internet generalist working across AI, tech, programmatic SEO, and marketing.
 
-I'm an internet generalist working across AI, tech, programmatic SEO, and marketing. Currently building cool stuff, experimenting, and documenting my journey at [deepakness.com](https://deepakness.com).
+Currently building cool stuff, experimenting, and documenting my journey at [deepakness.com](https://deepakness.com).
 
 You can also find me on [X (Twitter)](https://x.com/DeepakNesss), [LinkedIn](https://linkedin.com/in/deepakness), and [Threads](https://www.threads.com/@deepakness).
 
@@ -14,3 +14,5 @@ You can also find me on [X (Twitter)](https://x.com/DeepakNesss), [LinkedIn](htt
 - [How to Run Omarchy on a MacBook via UTM](https://deepakness.com/blog/omarchy-on-mac-via-utm/)
 - [Are Double Quotes Replacing Single Quotes?](https://deepakness.com/blog/double-vs-single-quotes/)
 <!-- BLOG-POST-LIST:END -->
+
+🛠️ *Currently: Breaking things & learning why.*
