@@ -1,8 +1,8 @@
 # Hey 👋
 
-My name is Deepak, and I go by the name DeepakNess online. I'm an internet generalist working across AI, tech, programmatic SEO, and marketing.
+My name is Deepak, and I go by the name DeepakNess online.
 
-Currently building cool stuff, experimenting, and documenting my journey at [deepakness.com](https://deepakness.com).
+I'm an internet generalist working across AI, tech, programmatic SEO, and marketing. Currently building cool stuff, experimenting, and documenting my journey at [deepakness.com](https://deepakness.com).
 
 You can also find me on [X (Twitter)](https://x.com/DeepakNesss), [LinkedIn](https://linkedin.com/in/deepakness), and [Threads](https://www.threads.com/@deepakness).
 
