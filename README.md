@@ -8,11 +8,11 @@ You can find me on [X (Twitter)](https://x.com/DeepakNesss), [LinkedIn](https://
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-hosting Umami Analytics on a VPS](https://deepakness.com/blog/self-hosting-umami-analytics/)
 - [Self-hosting Plausible on a Hetzner VPS](https://deepakness.com/blog/self-hosting-plausible-analytics/)
 - [Trying and Migrating to the Helium Browser](https://deepakness.com/blog/helium-browser/)
 - [macOS App to Show Lid Angle in the Menu Bar](https://deepakness.com/blog/show-lid-angle-in-menu-bar/)
 - [Git and GitHub for Vibe Coders](https://deepakness.com/blog/git-for-vibe-coders/)
-- [How to Run Omarchy on a MacBook via UTM](https://deepakness.com/blog/omarchy-on-mac-via-utm/)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ *Currently: Breaking things & learning why.*
