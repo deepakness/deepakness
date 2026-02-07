@@ -8,11 +8,11 @@ You can find me on [X (Twitter)](https://x.com/DeepakNesss), [LinkedIn](https://
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Sync Mastodon Posts with My 11ty Blog](https://deepakness.com/blog/mastodon-sync/)
+- [Dynamic Open Graph Images for My 11ty Blog](https://deepakness.com/blog/custom-og-images/)
 - [Adding Webmentions to My 11ty Blog](https://deepakness.com/blog/adding-webmentions/)
 - [Starting a Newsletter using Listmonk](https://deepakness.com/blog/listmonk-setup/)
 - [Trying and Migrating to Vivaldi Browser](https://deepakness.com/blog/vivaldi-browser/)
-- [Better Handling Images on My 11ty Blog](https://deepakness.com/blog/better-images/)
-- [Creating My First WordPress Plugin](https://deepakness.com/blog/first-wordpress-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ *Currently: Breaking things & learning why.*
