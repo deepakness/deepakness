@@ -1,4 +1,4 @@
-# Hey 👋
+## Hey 👋
 
 I'm Deepak (DeepakNess online) — an internet generalist who builds things and documents the process.
 
@@ -6,7 +6,7 @@ Currently shipping tools, experimenting, and writing about it all at [deepakness
 
 You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads.com/@deepakness), [LinkedIn](https://linkedin.com/in/deepakness), and [Mastodon](https://mastodon.social/@deepakness).
 
-## Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Sync Mastodon Posts with My 11ty Blog](https://deepakness.com/blog/mastodon-sync/)
