@@ -2,16 +2,9 @@
 
 I'm Deepak (DeepakNess online) — an internet generalist who builds things and documents the process.
 
-Currently shipping tools, experimenting, and writing about it all at [deepakness.com](https://deepakness.com).
+Currently shipping tools, experimenting, and writing about it all at [deepakness.com](https://deepakness.com). You can also [check my projects](https://deepakness.com/projects/).
 
 You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads.com/@deepakness), [LinkedIn](https://linkedin.com/in/deepakness), and [Mastodon](https://mastodon.social/@deepakness).
-
-## Currently Building
-
-- 🛒 **[Vemgram](https://deepakness.com/vemgram)** — Connecting retailers with manufacturers in India
-- 📎 **[SharePDF](https://deepakness.com/sharepdf)** — Host and share PDFs as trackable URLs
-
-See [other projects](https://deepakness.com/projects/) I am working or have worked on.
 
 ## Latest Blog Posts
 
