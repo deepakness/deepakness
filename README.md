@@ -2,27 +2,16 @@
 
 I'm Deepak (DeepakNess online) — an internet generalist who builds things and documents the process.
 
-> Ship it, write about it, learn from it, repeat.
+Currently shipping tools, experimenting, and writing about it all at [deepakness.com](https://deepakness.com).
 
-🔗 **[deepakness.com](https://deepakness.com)** — my public brain dump of thoughts, notes, and experiments.
-
-## What I've Shipped
-
-- 🌐 **[Omarchy Hub](https://omarchy.deepakness.com)** — Community resource library for Omarchy Linux (93 setups, 55 themes)
-- 📄 **[PutOut](https://github.com/deepakness/putout)** — Open-source tool that turns ebook chapters into responsive websites
-- 🖼️ **[optisharp](https://github.com/deepakness/optisharp)** — High-performance batch image processor for Node.js
-- 🔍 **[UntalkedSEO](https://untalkedseo.com)** — Programmatic SEO guides and case studies
-- 🤖 **[InvertedStone](https://invertedstone.com)** — AI tools, scripts, and calculators
-- 🧩 **[ALT2Title](https://github.com/deepakness/alt2title)** — WordPress plugin to sync alt text to image titles
-- 🔄 **[Classic to Gutenberg](https://github.com/deepakness/flavor-flavor)** — WordPress migration plugin
-- ✂️ **[Minimal X](https://github.com/deepakness/minimal-x)** — Chrome extension for distraction-free X.com
-- 🚫 **[No Thanks, ChatGPT](https://github.com/deepakness/no-thanks-chatgpt)** — Chrome extension to dismiss ChatGPT login popups
-- 🎵 **[MP3Detective](https://github.com/deepakness/mp3detective)** — AI-powered MP3 metadata updater
+You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads.com/@deepakness), [LinkedIn](https://linkedin.com/in/deepakness), and [Mastodon](https://mastodon.social/@deepakness).
 
 ## Currently Building
 
 - 🛒 **[Vemgram](https://deepakness.com/vemgram)** — Connecting retailers with manufacturers in India
 - 📎 **[SharePDF](https://deepakness.com/sharepdf)** — Host and share PDFs as trackable URLs
+
+See [other projects](https://deepakness.com/projects/) I am working or have worked on.
 
 ## Latest Blog Posts
 
@@ -34,22 +23,6 @@ I'm Deepak (DeepakNess online) — an internet generalist who builds things and 
 - [Trying and Migrating to Vivaldi Browser](https://deepakness.com/blog/vivaldi-browser/)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect
-
-[![X](https://img.shields.io/badge/-@DeepakNesss-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DeepakNesss)
-[![Threads](https://img.shields.io/badge/-@deepakness-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@deepakness)
-[![LinkedIn](https://img.shields.io/badge/-deepakness-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakness)
-[![Blog](https://img.shields.io/badge/-deepakness.com-FF5722?style=flat-square&logo=rss&logoColor=white)](https://deepakness.com)
-
 ---
 
-<details>
-<summary>Random facts</summary>
-
-- Studied mechanical engineering, ended up building things on the internet
-- Building and writing online since 2015
-- Love coding on long train journeys
-- Think slow, ship often
-- Speak English, Hindi, Magahi, and Odia
-
-</details>
+🛠️ *Currently: Breaking things & learning why.*
