@@ -24,6 +24,8 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 
 ✂️ [Minimal X](https://github.com/deepakness/minimal-x): Chrome extension for a cleaner X.com
 
+📝 [CrispWrite](https://github.com/deepakness/crispwrite): Clean 11ty starter for personal websites
+
 🎵 [MP3Detective](https://github.com/deepakness/mp3detective): AI-powered MP3 metadata fixer
 
 You can check my [other projects here](https://deepakness.com/projects/).
