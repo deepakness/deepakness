@@ -8,7 +8,7 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 
 ### Things I've shipped
 
-📑 [SharePDF](https://sharepdf.app): An app to upload PDF files, get a shareable link, and track view analytics
+📑 [SharePDF](https://sharepdf.app): An app to upload PDF files, get a shareable link, and track views
 
 🔄 [Classic to Gutenberg](https://github.com/deepakness/wp-bulk-classic-to-block): WordPress editor migration plugin
 
