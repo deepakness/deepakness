@@ -10,6 +10,8 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 
 📑 [SharePDF](https://sharepdf.app): An app to upload PDF files, get a shareable link, and track views
 
+🛍️ [Vemgram](https://vemgram.com): An online platform to connect retailers with manufacturers in India.
+
 🔄 [Classic to Gutenberg](https://github.com/deepakness/wp-bulk-classic-to-block): WordPress editor migration plugin
 
 🚫 [No Thanks, ChatGPT](https://github.com/deepakness/no-thanks-chatgpt): Auto-dismiss ChatGPT login popups
