@@ -37,11 +37,11 @@ You can check my [other projects here](https://deepakness.com/projects/).
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Publish Blog Posts and Notes So Fast](https://deepakness.com/blog/publish-fast/)
 - [Setting Up and Testing OMP &lpar;Oh My Pi&rpar; Agent](https://deepakness.com/blog/omp-setup/)
 - [I Bought a $100 Laptop – Mid 2014 MacBook Pro](https://deepakness.com/blog/mbp-mid-2014/)
 - [Setting Up and Using the Pi Coding Agent](https://deepakness.com/blog/pi-agent-setup/)
 - [Self-hosting FreshRSS on a Raspberry Pi device](https://deepakness.com/blog/freshrss-on-pi/)
-- [How I Sync Mastodon Posts with My 11ty Blog](https://deepakness.com/blog/mastodon-sync/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
