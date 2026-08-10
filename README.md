@@ -8,9 +8,9 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 
 ### Things I've shipped
 
-🛍️ [Vemgram](https://vemgram.com): An online platform to connect retailers with manufacturers in India
-
 📑 [SharePDF](https://sharepdf.app): An app to upload PDF files, get a shareable link, and track views
+
+🛍️ [Vemgram](https://vemgram.com): An online platform to connect retailers with manufacturers in India
 
 📲 [EternalQR](https://eternalqr.app): An app to create dynamic QR codes for print, menus, and business cards
 
