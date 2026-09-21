@@ -16,6 +16,8 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 
 🔄 [Classic to Gutenberg](https://github.com/deepakness/wp-bulk-classic-to-block): WordPress editor migration plugin
 
+✂️ [Minimal X](https://github.com/deepakness/minimal-x): Chrome extension for a cleaner X.com
+
 🚫 [No Thanks, ChatGPT](https://github.com/deepakness/no-thanks-chatgpt): Auto-dismiss ChatGPT login popups
 
 📄 [PutOut](https://github.com/deepakness/putout): Turn ebook chapters into responsive websites
@@ -25,8 +27,6 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 🖼️ [optisharp](https://github.com/deepakness/optisharp): Batch image processor for Node.js
 
 🌐 [Omarchy Hub](https://omarchy.deepakness.com): Community resource library for Omarchy Linux
-
-✂️ [Minimal X](https://github.com/deepakness/minimal-x): Chrome extension for a cleaner X.com
 
 📝 [CrispWrite](https://github.com/deepakness/crispwrite): Clean 11ty starter for personal websites
 
