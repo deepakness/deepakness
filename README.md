@@ -8,6 +8,8 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 
 ### Things I've shipped
 
+🛜 [CogSend](https://cogsend.com): An open-source social media scheduler supporting multiple platforms
+
 📑 [SharePDF](https://sharepdf.app): An app to upload PDF files, get a shareable link, and track views
 
 🛍️ [Vemgram](https://vemgram.com): An online platform to connect retailers with manufacturers in India
