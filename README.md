@@ -22,17 +22,9 @@ You can find me on [X](https://x.com/DeepakNesss), [Threads](https://www.threads
 
 🚫 [No Thanks, ChatGPT](https://github.com/deepakness/no-thanks-chatgpt): Auto-dismiss ChatGPT login popups
 
-📄 [PutOut](https://github.com/deepakness/putout): Turn ebook chapters into responsive websites
-
 🧩 [ALT2Title](https://github.com/deepakness/alt2title): WordPress plugin: sync alt text to image titles
 
-🖼️ [optisharp](https://github.com/deepakness/optisharp): Batch image processor for Node.js
-
 🌐 [Omarchy Hub](https://omarchy.deepakness.com): Community resource library for Omarchy Linux
-
-📝 [CrispWrite](https://github.com/deepakness/crispwrite): Clean 11ty starter for personal websites
-
-🎵 [MP3Detective](https://github.com/deepakness/mp3detective): AI-powered MP3 metadata fixer
 
 You can check my [other projects here](https://deepakness.com/projects/).
 
