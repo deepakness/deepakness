@@ -31,11 +31,11 @@ You can check my [other projects here](https://deepakness.com/projects/).
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Feedline, an Offline RSS Reader for Android](https://deepakness.com/blog/feedline-intro/)
 - [Building CogSend: A Self-Hosted Social Media Scheduler](https://deepakness.com/blog/cogsend-intro/)
 - [Serving a Website from a 1 GB Pi 4B on Home WiFi](https://deepakness.com/blog/pi-website-stack/)
 - [Trying the New DeepSeek Harness](https://deepakness.com/blog/deepseek-harness/)
 - [How I Publish Blog Posts and Notes So Fast](https://deepakness.com/blog/publish-fast/)
-- [Setting Up and Testing OMP &lpar;Oh My Pi&rpar; Agent](https://deepakness.com/blog/omp-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
